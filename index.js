@@ -35,7 +35,7 @@ var questionGroup=[
     answer:"deepu",
   },
   {
-    question:"What is the the favorite singer of Deepak? ",
+    question:"Who is the the favorite singer of Deepak? ",
     answer:"jubin nautiyal",
   },
 ]
