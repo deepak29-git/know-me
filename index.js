@@ -14,7 +14,6 @@ function play(question,answer){
     score=score+1
   }else{
     console.log(chalk.red("sorry you are wrong!"));
-    score=score-1
   }
   console.log("Your current score is: ",score)
 console.log("----------------------------------------")
